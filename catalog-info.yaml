@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mslearn-tailspin-spacegame-web
+  annotations:
+    github.com/project-slug: darkfenian/mslearn-tailspin-spacegame-web
+spec:
+  type: other
+  lifecycle: unknown
+  owner: devops
